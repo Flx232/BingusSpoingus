@@ -1,4 +1,5 @@
 type = "agent"
+name = "AudioAgent"
 
 [runtime]
 generation = "mk3"
